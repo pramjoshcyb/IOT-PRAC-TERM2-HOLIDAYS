@@ -1,5 +1,5 @@
 from smart_tv import *
 
 
-ui = smarttv()
+ui = SmartTV()
 ui.run()
