@@ -8,4 +8,5 @@ import rpyc # import remote procedure call
 class SmartTV():
     def __init__(self): 
         """initialise the class and attribute self"""
+        self.app = QApplication([])
         
